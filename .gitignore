@@ -1,0 +1,16 @@
+# Unity generated files
+Library/
+Temp/
+Obj/
+Logs/
+Build/
+Builds/
+UserSettings/
+.vs/
+*.csproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
